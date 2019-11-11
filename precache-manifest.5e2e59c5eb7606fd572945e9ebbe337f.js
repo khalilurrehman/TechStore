@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/TechStore/static/media/productsBcg.160fddff.jpeg"
   },
   {
-    "revision": "8551177730d2d19750ac",
+    "revision": "56e6036d8b2e64731c10",
     "url": "/TechStore/static/css/main.54329e3a.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/TechStore/static/media/mainBcg.984874d1.jpeg"
   },
   {
-    "revision": "8551177730d2d19750ac",
-    "url": "/TechStore/static/js/main.298b29ab.chunk.js"
+    "revision": "56e6036d8b2e64731c10",
+    "url": "/TechStore/static/js/main.5f206329.chunk.js"
   },
   {
     "revision": "945afb997e0731b038ed58fadacfeb3f",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/TechStore/static/css/2.daf3366c.chunk.css"
   },
   {
-    "revision": "db0bf66560cc6c6f36bfa5741da87b6a",
+    "revision": "209479f960d55b938d262536bc17e9a4",
     "url": "/TechStore/index.html"
   }
 ];
