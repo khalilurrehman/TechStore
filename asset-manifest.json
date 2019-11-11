@@ -1,0 +1,23 @@
+{
+  "main.css": "/TechStore/static/css/main.54329e3a.chunk.css",
+  "main.js": "/TechStore/static/js/main.753806e0.chunk.js",
+  "main.js.map": "/TechStore/static/js/main.753806e0.chunk.js.map",
+  "runtime~main.js": "/TechStore/static/js/runtime~main.7b318905.js",
+  "runtime~main.js.map": "/TechStore/static/js/runtime~main.7b318905.js.map",
+  "static/css/2.daf3366c.chunk.css": "/TechStore/static/css/2.daf3366c.chunk.css",
+  "static/js/2.d0b83fb7.chunk.js": "/TechStore/static/js/2.d0b83fb7.chunk.js",
+  "static/js/2.d0b83fb7.chunk.js.map": "/TechStore/static/js/2.d0b83fb7.chunk.js.map",
+  "index.html": "/TechStore/index.html",
+  "precache-manifest.cbe077c3ef66840ea7927a38e65700c1.js": "/TechStore/precache-manifest.cbe077c3ef66840ea7927a38e65700c1.js",
+  "service-worker.js": "/TechStore/service-worker.js",
+  "static/css/2.daf3366c.chunk.css.map": "/TechStore/static/css/2.daf3366c.chunk.css.map",
+  "static/css/main.54329e3a.chunk.css.map": "/TechStore/static/css/main.54329e3a.chunk.css.map",
+  "static/media/aboutBcg.jpeg": "/TechStore/static/media/aboutBcg.7709c10e.jpeg",
+  "static/media/contactBcg.jpeg": "/TechStore/static/media/contactBcg.945afb99.jpeg",
+  "static/media/defaultBcg.jpeg": "/TechStore/static/media/defaultBcg.0819a816.jpeg",
+  "static/media/logo.svg": "/TechStore/static/media/logo.2b362308.svg",
+  "static/media/mainBcg.jpeg": "/TechStore/static/media/mainBcg.984874d1.jpeg",
+  "static/media/productsBcg.jpeg": "/TechStore/static/media/productsBcg.160fddff.jpeg",
+  "static/media/singleProductBcg.jpeg": "/TechStore/static/media/singleProductBcg.96758412.jpeg",
+  "static/media/storeBcg.jpeg": "/TechStore/static/media/storeBcg.46143c2f.jpeg"
+}
